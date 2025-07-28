@@ -1,0 +1,286 @@
+
+> personal-expenses-app@0.0.0 dev
+> vite
+
+
+  VITE v7.0.5  ready in 654 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+
+> personal-expenses-app@0.0.0 dev
+> vite
+
+
+  VITE v7.0.5  ready in 653 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+11:57:36 AM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+11:57:36 AM [vite] (client) page reload nohup.out
+
+> personal-expenses-app@0.0.0 dev
+> vite
+
+11:58:28 AM [vite] (client) page reload nohup.out
+Port 5173 is in use, trying another one...
+11:58:29 AM [vite] (client) page reload nohup.out
+
+  VITE v7.0.5  ready in 597 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+
+> personal-expenses-app@0.0.0 dev
+> vite
+
+11:58:49 AM [vite] (client) page reload nohup.out
+Port 5173 is in use, trying another one...
+11:58:49 AM [vite] (client) page reload nohup.out
+
+  VITE v7.0.5  ready in 629 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+
+> personal-expenses-app@0.0.0 dev
+> vite
+
+11:59:36 AM [vite] (client) page reload nohup.out
+Port 5173 is in use, trying another one...
+11:59:37 AM [vite] (client) page reload nohup.out
+
+  VITE v7.0.5  ready in 659 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+12:00:55 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:00:55 PM [vite] (client) page reload nohup.out
+12:01:05 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:01:05 PM [vite] (client) page reload nohup.out
+12:01:13 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:01:13 PM [vite] (client) page reload nohup.out
+12:01:53 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:01:53 PM [vite] (client) page reload nohup.out
+12:02:14 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:02:14 PM [vite] (client) page reload nohup.out
+12:03:32 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:03:32 PM [vite] (client) page reload nohup.out
+12:04:11 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:04:11 PM [vite] (client) page reload nohup.out
+12:04:19 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:04:19 PM [vite] (client) page reload nohup.out
+12:04:26 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:04:26 PM [vite] (client) page reload nohup.out
+12:04:31 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:04:31 PM [vite] (client) page reload nohup.out
+12:04:51 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:04:51 PM [vite] (client) page reload nohup.out
+12:04:57 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:04:57 PM [vite] (client) page reload nohup.out
+12:05:34 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:05:34 PM [vite] (client) page reload nohup.out
+12:05:48 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:05:48 PM [vite] (client) page reload nohup.out
+12:06:26 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:06:26 PM [vite] (client) page reload nohup.out
+12:07:35 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:07:35 PM [vite] (client) page reload nohup.out
+12:07:52 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:07:52 PM [vite] (client) page reload nohup.out
+12:08:05 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:08:05 PM [vite] (client) page reload nohup.out
+12:11:04 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:11:04 PM [vite] (client) page reload nohup.out
+12:11:06 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:11:06 PM [vite] (client) page reload nohup.out
+12:11:12 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:11:12 PM [vite] (client) page reload nohup.out
+12:11:39 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:11:39 PM [vite] (client) page reload nohup.out
+12:12:32 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:12:32 PM [vite] (client) page reload nohup.out
+12:13:07 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:13:07 PM [vite] (client) page reload nohup.out
+12:13:26 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:13:26 PM [vite] (client) page reload nohup.out
+12:13:57 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:13:57 PM [vite] (client) page reload nohup.out
+12:14:40 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:14:40 PM [vite] (client) page reload nohup.out
+12:17:02 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:17:02 PM [vite] (client) page reload nohup.out
+12:18:33 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:18:33 PM [vite] (client) page reload nohup.out
+12:18:43 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:18:43 PM [vite] (client) page reload nohup.out
+12:18:59 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:18:59 PM [vite] (client) page reload nohup.out
+12:19:56 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:19:56 PM [vite] (client) page reload nohup.out
+12:20:02 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:20:02 PM [vite] (client) page reload nohup.out
+12:20:49 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:20:49 PM [vite] (client) page reload nohup.out
+12:21:08 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:21:08 PM [vite] (client) page reload nohup.out
+12:23:41 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:23:41 PM [vite] (client) page reload nohup.out
+12:23:52 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+12:23:52 PM [vite] (client) page reload nohup.out
+12:24:24 PM [vite] (client) hmr update /src/pages/dashboard/NavBars.jsx, /src/index.css
+12:24:24 PM [vite] (client) page reload nohup.out
+12:24:40 PM [vite] (client) hmr update /src/pages/dashboard/NavBars.jsx, /src/index.css
+12:24:40 PM [vite] (client) page reload nohup.out
+12:24:56 PM [vite] (client) hmr update /src/pages/dashboard/NavBars.jsx, /src/index.css
+12:24:56 PM [vite] (client) page reload nohup.out
+12:59:21 PM [vite] (client) hmr update /src/pages/dashboard/NavBars.jsx, /src/index.css
+12:59:21 PM [vite] (client) page reload nohup.out
+1:00:17 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:00:17 PM [vite] (client) page reload nohup.out
+1:00:49 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:00:49 PM [vite] (client) page reload nohup.out
+1:02:56 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:02:56 PM [vite] (client) page reload nohup.out
+1:03:47 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:03:47 PM [vite] (client) page reload nohup.out
+1:04:20 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:04:20 PM [vite] (client) page reload nohup.out
+1:04:40 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:04:40 PM [vite] (client) page reload nohup.out
+1:06:04 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:06:04 PM [vite] (client) page reload nohup.out
+1:06:29 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:06:29 PM [vite] (client) page reload nohup.out
+1:10:14 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:10:14 PM [vite] (client) page reload nohup.out
+1:10:51 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:10:51 PM [vite] (client) page reload nohup.out
+1:11:18 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:11:18 PM [vite] (client) page reload nohup.out
+1:11:38 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:11:38 PM [vite] (client) page reload nohup.out
+1:12:06 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:12:06 PM [vite] (client) page reload nohup.out
+1:22:47 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:22:47 PM [vite] (client) page reload nohup.out
+1:23:49 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:23:49 PM [vite] (client) page reload nohup.out
+1:24:09 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:24:09 PM [vite] (client) page reload nohup.out
+1:26:09 PM [vite] (client) hmr update /src/components/shared/DashBoardButton.jsx, /src/index.css
+1:26:09 PM [vite] (client) page reload nohup.out
+1:27:48 PM [vite] (client) hmr update /src/pages/dashboard/NavBars.jsx, /src/index.css
+1:27:48 PM [vite] (client) page reload nohup.out
+1:27:49 PM [vite] (client) Pre-transform error: Failed to load url /src/pages/dashboard/NavBars.jsx (resolved id: /var/www/internship/personal-expenses-frontend/src/pages/dashboard/NavBars.jsx) in /var/www/internship/personal-expenses-frontend/src/pages/dashboard/Dashboard.jsx. Does the file exist?
+1:27:49 PM [vite] (client) page reload nohup.out
+1:27:55 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:27:55 PM [vite] (client) page reload nohup.out
+1:28:32 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:28:32 PM [vite] (client) page reload nohup.out
+1:28:36 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:28:36 PM [vite] (client) page reload nohup.out
+1:28:37 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:28:37 PM [vite] (client) page reload nohup.out
+1:29:13 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:29:13 PM [vite] (client) page reload nohup.out
+1:33:11 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:33:11 PM [vite] (client) page reload nohup.out
+1:35:10 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:35:10 PM [vite] (client) page reload nohup.out
+1:35:22 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:35:22 PM [vite] (client) page reload nohup.out
+1:36:03 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:36:03 PM [vite] (client) page reload nohup.out
+1:36:38 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:36:38 PM [vite] (client) page reload nohup.out
+1:36:57 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:36:57 PM [vite] (client) page reload nohup.out
+1:37:16 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:37:16 PM [vite] (client) page reload nohup.out
+1:39:04 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:39:04 PM [vite] (client) page reload nohup.out
+1:39:07 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:39:07 PM [vite] (client) page reload nohup.out
+1:39:25 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:39:25 PM [vite] (client) page reload nohup.out
+1:39:33 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:39:33 PM [vite] (client) page reload nohup.out
+1:39:44 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:39:44 PM [vite] (client) page reload nohup.out
+1:39:52 PM [vite] (client) hmr update /src/pages/dashboard/NavBar.jsx, /src/index.css
+1:39:52 PM [vite] (client) page reload nohup.out
+1:42:12 PM [vite] (client) hmr update /src/components/shared/DashBoardButton.jsx, /src/index.css
+1:42:12 PM [vite] (client) page reload nohup.out
+1:42:38 PM [vite] (client) hmr update /src/components/shared/DashBoardButton.jsx, /src/index.css
+1:42:38 PM [vite] (client) page reload nohup.out
+1:43:03 PM [vite] (client) hmr update /src/components/shared/DashBoardButton.jsx, /src/index.css
+1:43:03 PM [vite] (client) page reload nohup.out
+1:43:18 PM [vite] (client) hmr update /src/components/shared/DashBoardButton.jsx, /src/index.css
+1:43:18 PM [vite] (client) page reload nohup.out
+1:44:18 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+1:44:18 PM [vite] (client) page reload nohup.out
+1:47:21 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:47:21 PM [vite] (client) page reload nohup.out
+1:47:39 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:47:39 PM [vite] (client) page reload nohup.out
+1:48:26 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+1:48:26 PM [vite] (client) page reload nohup.out
+1:49:08 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+1:49:08 PM [vite] (client) page reload nohup.out
+1:49:36 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:49:36 PM [vite] (client) page reload nohup.out
+1:49:47 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:49:47 PM [vite] (client) page reload nohup.out
+1:50:16 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:50:16 PM [vite] (client) page reload nohup.out
+1:51:05 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:51:05 PM [vite] (client) page reload nohup.out
+1:51:22 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:51:22 PM [vite] (client) page reload nohup.out
+1:51:27 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:51:27 PM [vite] (client) page reload nohup.out
+1:51:41 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+1:51:41 PM [vite] (client) page reload nohup.out
+1:51:57 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:51:57 PM [vite] (client) page reload nohup.out
+1:52:27 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+1:52:27 PM [vite] (client) page reload nohup.out
+1:53:31 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+1:53:31 PM [vite] (client) page reload nohup.out
+1:53:47 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+1:53:47 PM [vite] (client) page reload nohup.out
+1:53:56 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+1:53:56 PM [vite] (client) page reload nohup.out
+1:57:14 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:57:14 PM [vite] (client) page reload nohup.out
+1:57:34 PM [vite] (client) hmr update /src/pages/dashboard/Cards.jsx, /src/index.css
+1:57:34 PM [vite] (client) page reload nohup.out
+1:57:52 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:57:52 PM [vite] (client) page reload nohup.out
+1:58:29 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+1:58:29 PM [vite] (client) page reload nohup.out
+2:01:07 PM [vite] (client) hmr update /src/pages/dashboard/Cards.jsx, /src/index.css
+2:01:07 PM [vite] (client) page reload nohup.out
+2:02:20 PM [vite] (client) hmr update /src/pages/dashboard/Cards.jsx, /src/index.css
+2:02:20 PM [vite] (client) page reload nohup.out
+2:03:31 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+2:03:31 PM [vite] (client) page reload nohup.out
+2:03:47 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+2:03:47 PM [vite] (client) page reload nohup.out
+2:04:11 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+2:04:11 PM [vite] (client) page reload nohup.out
+2:04:23 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+2:04:23 PM [vite] (client) page reload nohup.out
+2:04:33 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+2:04:33 PM [vite] (client) page reload nohup.out
+2:04:49 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+2:04:49 PM [vite] (client) page reload nohup.out
+2:05:13 PM [vite] (client) hmr update /src/components/shared/Card.jsx, /src/index.css
+2:05:13 PM [vite] (client) page reload nohup.out
+2:05:53 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+2:05:53 PM [vite] (client) page reload nohup.out
+2:06:00 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+2:06:00 PM [vite] (client) page reload nohup.out
+2:06:23 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
+2:06:23 PM [vite] (client) page reload nohup.out
