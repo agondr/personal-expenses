@@ -1,3 +1,4 @@
+import { HandCoins } from "lucide-react";
 import React from "react";
 import { Link } from "react-router-dom";
 
@@ -7,7 +8,9 @@ const Login = () => {
       <div className="bg-[#121212] p-8 rounded-xl shadow-lg w-[90%] max-w-md">
         <div className="flex flex-col items-center space-y-4">
           <div className="w-12 h-12 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-full flex items-center justify-center">
-            <span className="text-2xl font-bold">O</span>
+            <span className="text-2xl font-bold">
+              <HandCoins />
+            </span>
           </div>
 
           <h2 className="text-2xl font-semibold">Welcome Back</h2>
