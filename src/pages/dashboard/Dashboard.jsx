@@ -1,15 +1,10 @@
-import Card from "@/components/shared/Card";
-import SideBar from "@/components/shared/SideBarButton";
 import React from "react";
 import SideBars from "./SideBars";
 import {
   CalendarDays,
   Download,
   HandCoins,
-  Search,
   SlidersVertical,
-  User,
-  WalletMinimal,
 } from "lucide-react";
 import NavBar from "./NavBar";
 import DashBoardButton from "@/components/shared/DashBoardButton";
