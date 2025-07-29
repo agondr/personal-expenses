@@ -284,3 +284,14 @@ Port 5173 is in use, trying another one...
 2:06:00 PM [vite] (client) page reload nohup.out
 2:06:23 PM [vite] (client) hmr update /src/pages/dashboard/Dashboard.jsx, /src/index.css
 2:06:23 PM [vite] (client) page reload nohup.out
+
+> personal-expenses-app@0.0.0 dev
+> vite
+
+Port 5173 is in use, trying another one...
+
+  VITE v7.0.5  ready in 662 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+11:50:25 AM [vite] (client) page reload index.html

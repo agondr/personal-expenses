@@ -24,7 +24,7 @@ const Dashboard = () => {
           </div>
           <SideBars />
         </aside>
-        <div className="w-full flex flex-col gap-5 h-screen bg-zinc-900 p-4 rounded-lg text-white">
+        <div className="w-full flex flex-col gap-5 h-full bg-zinc-900 p-4 rounded-lg text-white">
           <div>
             <NavBar />
           </div>
